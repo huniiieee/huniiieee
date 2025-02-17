@@ -38,38 +38,32 @@
            /> </div> 
     </div>
     <div style="text-align: left;">
-        <h2>📌 Project </h2> 
-     <div style="text-align: left;">
-        <h3> 📔 개인정보 보호 및 유해 요소 모자이크 처리 시스템 </h3>  </div>
-         <div style="text-align: left;">
-        <h3>📅 기간</h3>
-        <p>(2024-12-30 ~ 2025-02-18)</p>
-        </div>
-       <div style="text-align: left;">
-        <h3>🛠️ 사용 기술</h3>
-        <p>React, JavaScript, HTML/CSS, REST API</p>
-        </div>
-       <div style="text-align: left;">
-        <h3>🔎 프로젝트 개요</h3>
-        <p>영상 콘텐츠에서 개인정보 유출 및 유해 요소 노출 문제가 증가함에 따라, 얼굴 및 특정 객체에 <span class="highlight">모자이크 처리를 적용하는 웹 애플리케이션</span>을 개발했습니다.</p>
-        </div>
-         <div style="text-align: left;">
-        <h3>👨‍💻 담당 역할 및 기여</h3>
-        <ul style="list-style: none !important; padding: 0;">
-            <li> <span class="highlight">프론트엔드 개발 담당:</span> React를 처음 접하며 학습(유튜브 강의 시청, 템플릿 코드 분석)하고, <span class="highlight">컴포넌트 기반 개발</span>에 익숙해짐</li>
-            <li> <span class="highlight">프론트엔드 화면 설계:</span> 팀원들에게 <span class="highlight">하루마다 작업할 페이지를 분배</span>하고, UI/UX 화면 구성을 주도</li>
-            <li> <span class="highlight">백엔드 연동 및 오류 수정:</span> 영상 모자이크 처리 기능에서 <span class="highlight">백엔드와의 통신 오류 해결</span> 및 전체적인 프론트엔드 오류 수정 담당</li>
-        </ul>
-        </div>
-         <div style="text-align: left;">
-         <h3>🏆 주요 성과</h3>
-        <ul style="list-style: none !important; padding: 0;">
-            <li> <span class="highlight">React 기반 컴포넌트 개발을 익히고</span>, 프로젝트 구조를 고려한 UI/UX 설계 경험</li>
-            <li> <span class="highlight">프론트엔드-백엔드 연동 과정에서 발생한 주요 오류 해결</span>을 통해 디버깅 및 문제 해결 역량 강화</li>
-            <li> <span class="highlight">개인정보 보호 및 유해 요소 차단 기능을 적용한 웹 애플리케이션 완성</span></li>
-        </ul>
-        </div>
+    <h2>📌 Project </h2> 
+    <div style="text-align: left;">
+        <!-- <details>와 <summary> 태그를 사용하여 클릭 시 세부 사항 표시 -->
+        <details>
+            <summary style="cursor: pointer;">📔 개인정보 보호 및 유해 요소 모자이크 처리 시스템 </summary>
+            <h3>📅 기간</h3>
+            <p>(2024-12-30 ~ 2025-02-18)</p>
+            <h3>🛠️ 사용 기술</h3>
+            <p>React, JavaScript, HTML/CSS, REST API</p>
+            <h3>🔎 프로젝트 개요</h3>
+            <p>영상 콘텐츠에서 개인정보 유출 및 유해 요소 노출 문제가 증가함에 따라, 얼굴 및 특정 객체에 <span class="highlight">모자이크 처리를 적용하는 웹 애플리케이션</span>을 개발했습니다.</p>
+            <h3>👨‍💻 담당 역할 및 기여</h3>
+            <ul style="list-style: none !important; padding: 0;">
+                <li> <span class="highlight">프론트엔드 개발 담당:</span> React를 처음 접하며 학습(유튜브 강의 시청, 템플릿 코드 분석)하고, <span class="highlight">컴포넌트 기반 개발</span>에 익숙해짐</li>
+                <li> <span class="highlight">프론트엔드 화면 설계:</span> 팀원들에게 <span class="highlight">하루마다 작업할 페이지를 분배</span>하고, UI/UX 화면 구성을 주도</li>
+                <li> <span class="highlight">백엔드 연동 및 오류 수정:</span> 영상 모자이크 처리 기능에서 <span class="highlight">백엔드와의 통신 오류 해결</span> 및 전체적인 프론트엔드 오류 수정 담당</li>
+            </ul>
+            <h3>🏆 주요 성과</h3>
+            <ul style="list-style: none !important; padding: 0;">
+                <li> <span class="highlight">React 기반 컴포넌트 개발을 익히고</span>, 프로젝트 구조를 고려한 UI/UX 설계 경험</li>
+                <li> <span class="highlight">프론트엔드-백엔드 연동 과정에서 발생한 주요 오류 해결</span>을 통해 디버깅 및 문제 해결 역량 강화</li>
+                <li> <span class="highlight">개인정보 보호 및 유해 요소 차단 기능을 적용한 웹 애플리케이션 완성</span></li>
+            </ul>
+        </details>
     </div>
+</div>
        
 
        
