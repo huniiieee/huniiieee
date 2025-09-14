@@ -1,5 +1,10 @@
-![image](https://github.com/user-attachments/assets/bcd01d84-72b1-4f3a-b2fb-101d55b01257)<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=1e7ec8&height=120&text=Hi,%20I'm%20sehun🙌&animation=&fontColor=000000&fontSize=60" />
+![image](https://github.com/user-attachments/assets/bcd01d84-72b1-4f3a-b2fb-101d55b01257)
+# LEE SEHUN
+<div align= "center">
+
+<side>
+안정적이고 효율적인 서비스를 개발하는 백엔드 개발자
+</side>
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
@@ -41,9 +46,3 @@
     <div style="text-align: left;">
     
 </div>
-       
-
-       
-
-    
-    
