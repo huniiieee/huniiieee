@@ -9,15 +9,22 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+          <br/>
+          <img src="https://img.shields.io/badge/springboot-6DB33F?style=plastic&logo=springboot&logoColor=white">
+          <img src="https://img.shields.io/badge/fastapi-009688?style=plastic&logo=fastapi&logoColor=white">
+          <img src="https://img.shields.io/badge/react-61DAFB?style=plastic&logo=react&logoColor=white">
+          <br/>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/Redis-FF4438?style=plastic&logo=Redis&logoColor=white">
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white">
+          <img src="https://img.shields.io/badge/H2-09476B?style=plastic&logo=H2&logoColor=white">
+          <br/>
           <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
+          <br/>
           <br/></div>
     </div>
     <div style="text-align: left;">
